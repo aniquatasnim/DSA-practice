@@ -1,3 +1,13 @@
+/*
+Input: n = 4
+Output:
+1
+12
+123
+1234
+
+*/
+
 class Solution {
     pattern3(n) {
         for (let i=1; i<=n ; i++){

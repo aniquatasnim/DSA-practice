@@ -1,11 +1,12 @@
 
-/*Input: n = 4
-
+/*
+Input: n = 4
 Output:
 1234
 123
 12
 1
+
 */
 
 class Solution {
