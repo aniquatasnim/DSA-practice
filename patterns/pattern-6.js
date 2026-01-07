@@ -1,6 +1,7 @@
 
 /*
 Input: n = 4
+
 Output:
 1234
 123
